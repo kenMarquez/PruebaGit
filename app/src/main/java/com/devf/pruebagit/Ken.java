@@ -9,7 +9,7 @@ import android.util.Log;
 public class Ken {
 
     public void method() {
-        Log.i("Log", "Hello");
+        Log.i("Log", "Hell");
     }
 
 
