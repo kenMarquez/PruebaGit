@@ -11,4 +11,6 @@ public class Ken {
     public void method() {
         Log.i("Log", "Hello");
     }
+
+
 }
